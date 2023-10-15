@@ -1,7 +1,7 @@
 # POST_TES_PRAKTIKUM_KELAS_B
 # NAMA : SAWUNG GALIH TRIATMOJO
 # NIM : 2309116058
-
+# SOURCECODE PYTHON : 
 # Membuat percabangan untuk memilih satuan massa yang ingin dikonversikan (pounds (lb), ounce (ons), gram (g) )
 
 nama = str(input("NAMA : "))
